@@ -15,4 +15,4 @@ Designed for ~18mm (3/4 inch) tape. I used short (~12mm) M3 or M4 screws to atta
 
 Mesh files: marker_plate_120-72-11.stl, marker_plate_120-80-9.stl, and marker_plate_120-60-6.stl. 
 
-These do the job and are a lot less expensive than the ones I've seen commericially. The stl files are the ones I use for shank, thigh, and upper arm. These seem to work well but can be easily scaled to generate custom sizes as well. Be sure to print flat on the build plate for optimal strength. Both PETG and PLA have worked for me.
+These do the job and are a lot less expensive than the ones I've seen commericially. The stl files are the plates I use for shank, thigh, and upper arm. These seem to work well but can be easily scaled to generate custom sizes. Be sure to print flat on the build plate for optimal strength. Both PETG and PLA have worked for me. I just superglue markers to each corner.
