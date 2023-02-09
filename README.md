@@ -5,6 +5,8 @@
 
 Mesh files: marker_holder.stl. 
 
+![Marker skeleton](https://github.com/Telfer/Motion_Capture_Equipment/blob/main/marker_skeleton.jpg)
+
 After forgeting to put a marker on for the n-th time, I bought a cheap anatomical skeleton, printed these little marker holders, and started using this set up as a way both to store the markers (pre-taped) and show the landmarks where they need to go. We just put the skeleton next to the participant and transfer the markers over one at a time. Usually easy to see if one has been missed. If you use multiple marker sets you could potentially color code or something. 
 
 Designed for ~18mm (3/4 inch) tape. I used short (~12mm) M3 or M4 screws to attach the marker holders to the bones, along with longer ones to hang the marker plates from. Depending on your skeleton, you may also need to make extra plates to attach between bones and stop it swinging around.
