@@ -21,4 +21,4 @@ These do the job and are a lot less expensive than the ones I've seen commericia
 
 Mesh files: HeelPlate.stl, MarkerPlate.stl
 
-Two-part marker plate designed to allow a shoe with a heel window cut in it to be taken on and off during a motion capture study (for example on different types of foot orthoses). Instructions on use in the pdf. Used in [Dose response effects of FO paper](https://pubmed.ncbi.nlm.nih.gov/23631857/) and a few other papers.
+Two-part marker plate designed to allow a shoe with a heel window cut in it to be taken on and off during a motion capture study (for example on different types of foot orthoses). Instructions on use in the pdf. Used in [Dose response effects of FOs](https://pubmed.ncbi.nlm.nih.gov/23631857/) and a few other papers.
