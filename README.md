@@ -22,3 +22,11 @@ These do the job and are a lot less expensive than the ones I've seen commericia
 Mesh files: HeelPlate.stl, MarkerPlate.stl
 
 Two-part marker plate designed to allow a shoe with a heel window cut in it to be taken on and off during a motion capture study (for example on different types of foot orthoses). Instructions on use in the pdf. Used in [Dose response effects of FOs](https://pubmed.ncbi.nlm.nih.gov/23631857/) and a few other papers.
+
+## Markers with radio-opaque centers
+
+Mesh files: Marker_RO_center_bottom.stl, Marker_RO_center_top.stl
+
+We use these for biplane fluoroscopy studies that also require optical motion capture measurements. The marker is printed in 2 parts, a steel ball bearing is placed in the center and the 2 halves glued together. Finally, cover the marker in reflective 3M tape and you have a marker that can be measured using both biplane and standard motion capture systems. I've included stl files for a sample 9mm marker with for 3mm diameter center bead (we use these for feet), but there is also a quick python script for Rhino to generate custom markers with different hole and overall sizes.
+
+![Marker under fluoroscopy](https://github.com/Telfer/Motion_Capture_Equipment/blob/main/Mocap_RO_Marker/bp_marker_image.jpg)
